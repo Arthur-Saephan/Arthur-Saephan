@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Muay thai,Brazilian jiu-jitsu and coding at the moment.
 - 🌱 I’m currently learning ...Full stack web dev
 - 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ...arthursaephan@gmail.com
+- 📫 How to reach me ...saehuhhdev@gmail.com
 
 <!---
 Arthur-Saephan/Arthur-Saephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
